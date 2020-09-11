@@ -1,8 +1,11 @@
 # pip install -U -r requirements.txt
-scipy==1.4.1
-opencv-python
-matplotlib
-pycocotools
+
+Cython 
+numpy==1.17 
+opencv-python 
+matplotlib 
+pillow 
+tensorboard 
+PyYAML>=5.3 
+scipy==1.4.1 
 tqdm
-tensorboard
-pyyaml
