@@ -1,0 +1,2 @@
+Conda user: conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+Normal user: pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
