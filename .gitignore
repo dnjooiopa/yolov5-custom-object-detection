@@ -141,5 +141,5 @@ cython_debug/
 data/images
 data/labels
 data/crop_weed.yaml
-
+scripts.txt
 runs
