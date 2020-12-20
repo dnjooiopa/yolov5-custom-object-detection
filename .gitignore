@@ -143,3 +143,6 @@ data/labels
 data/crop_weed.yaml
 scripts.txt
 runs
+sample_img
+.vscode
+inference
